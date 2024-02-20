@@ -1,0 +1,34 @@
+﻿<Window x:Class="HotelReservations.Windows.RoomTypes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotelReservations.Windows"
+        mc:Ignorable="d"
+        Title="RoomTypes" Height="450" Width="800">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <ToolBar Grid.Row="0">
+                <Button Name="AddBtn" Content="Add" BorderBrush="LightGray" Click="AddTypeBtn_Click"/>
+                <Button Name="EditBtn" Content="Edit" BorderBrush="LightGray" Margin="5,0,0,0" Click="EditTypeBtn_Click"/>
+                <Button Name="DeleteBtn" Content="Delete" BorderBrush="LightGray" Margin="5,0,0,0" Click="DeleteTypeBtn_Click"/>
+            </ToolBar>
+
+            <StackPanel Grid.Row="1" Margin="10">
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                    <Label Content="Room Type ID:" VerticalContentAlignment="Center"/>
+                    <TextBox Name="RoomTypeNumberSearchTB" Width="100" VerticalContentAlignment="Center" Margin="5,0,0,0" PreviewKeyUp="RoomNumberSearchTB_PreviewKeyUp"/>
+                </StackPanel>
+
+
+                <DataGrid Name="RoomTypeDG" IsReadOnly="True" AutoGeneratingColumn="RoomTypeGrid_AutoGeneratingColumn"/>
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Window>

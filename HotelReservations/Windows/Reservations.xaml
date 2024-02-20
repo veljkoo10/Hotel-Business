@@ -1,0 +1,29 @@
+﻿<Window x:Class="HotelReservations.Windows.Reservations"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotelReservations.Windows"
+        mc:Ignorable="d"
+        Title="Reservations" Height="450" Width="800">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30" />
+                <RowDefinition Height="30" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <ToolBar Grid.Row="0">
+                <Button Content="Add" BorderBrush="AliceBlue" Click="AddResevationBtn_Click"></Button>
+                <Button Content="Edit" BorderBrush="AliceBlue" Margin="5,0,0,0" Click="EditResevationBtn_Click"></Button>
+                <Button Content="Delete" BorderBrush="AliceBlue" Margin="5,0,0,0" Click="DeleteResevationBtn_Click"></Button>
+            </ToolBar>
+            <StackPanel Grid.Row="1" Orientation="Horizontal">
+                <Label Content="Rezervacija ID:" VerticalContentAlignment="Center"/>
+                <TextBox Name="ReservationsIdSearchTB" Height="24" Width="150" Margin="3" VerticalContentAlignment="Center" PreviewKeyUp="ReservationsIdSearchTB_PreviewKeyUp"/>
+            </StackPanel>
+
+            <DataGrid Grid.Row="2" Name="ReservationDataGrid" IsReadOnly="True"  AutoGeneratingColumn="ReservationDataGrid_AutoGeneratingColumn"></DataGrid>
+        </Grid>
+    </Grid>
+</Window>

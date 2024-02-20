@@ -1,0 +1,263 @@
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.exe
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.deps.json
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.runtimeconfig.json
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.AssemblyReference.cache
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.cache
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.lref
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.g.resources
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfo.cs
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.CoreCompileInputs.cache
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\refint\HotelReservations.dll
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.genruntimeconfig.cache
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\ref\HotelReservations.dll
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.g.cs
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.baml
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.g.cs
+C:\Users\ntodo\Desktop\Nastava\Pop\V4\Test\PopProjekat\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.baml
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.exe
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.deps.json
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.runtimeconfig.json
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.AssemblyReference.cache
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.g.cs
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.g.cs
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.cache
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.lref
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.baml
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.baml
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.g.resources
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfo.cs
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.CoreCompileInputs.cache
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\refint\HotelReservations.dll
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.genruntimeconfig.cache
+C:\Users\ntodo\Desktop\Nastava\Pop\V5\g1\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\ref\HotelReservations.dll
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.exe
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.deps.json
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.runtimeconfig.json
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.AssemblyReference.cache
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.g.cs
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.g.cs
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Users.g.cs
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.cache
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.lref
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.baml
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.baml
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Users.baml
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.g.resources
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfo.cs
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.CoreCompileInputs.cache
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\refint\HotelReservations.dll
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.genruntimeconfig.cache
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\ref\HotelReservations.dll
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditUser.g.cs
+C:\Users\ntodo\Downloads\SRXX-YYYYPOP2023\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditUser.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.exe
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.deps.json
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.runtimeconfig.json
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditUser.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Users.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.lref
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditUser.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Users.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.g.resources
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfo.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.CoreCompileInputs.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\refint\HotelReservations.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.genruntimeconfig.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Vezbe\6\SRXX-YYYYPOP2023\HotelReservations\obj\Debug\net7.0-windows\ref\HotelReservations.dll
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.exe
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.deps.json
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.runtimeconfig.json
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditUser.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Users.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.cache
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.lref
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditUser.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Users.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.g.resources
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfo.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.CoreCompileInputs.cache
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\refint\HotelReservations.dll
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.genruntimeconfig.cache
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\ref\HotelReservations.dll
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoomType.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoomType.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Guests.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\RoomTypes.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Guests.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\RoomTypes.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditGuest.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditGuest.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Prices.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Prices.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditPrice.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditPrice.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Reservations.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Reservations.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditReservation.g.cs
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditReservation.baml
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.AssemblyReference.cache
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Veljko\source\repos\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.CopyComplete
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.exe
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.deps.json
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.runtimeconfig.json
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.AssemblyReference.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditGuest.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditPrice.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditReservation.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoomType.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditUser.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Guests.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Prices.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Reservations.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\RoomTypes.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Users.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.lref
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditGuest.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditPrice.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditReservation.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoomType.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditUser.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Guests.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Prices.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Reservations.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\RoomTypes.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\Windows\Users.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.g.resources
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfo.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.CoreCompileInputs.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.CopyComplete
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\refint\HotelReservations.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.genruntimeconfig.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\SR12-2022-POP2023\HotelReservations\obj\Debug\net7.0-windows\ref\HotelReservations.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.exe
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.deps.json
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.runtimeconfig.json
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\bin\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.AssemblyReference.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditGuest.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditPrice.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditReservation.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoomType.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditUser.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\Guests.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\Prices.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\Reservations.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\RoomTypes.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\Users.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\HotelReservations_MarkupCompile.lref
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditGuest.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditPrice.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditReservation.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoom.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditRoomType.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\AddEditUser.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\Guests.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\Prices.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\Reservations.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\Rooms.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\RoomTypes.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\Windows\Users.baml
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.g.resources
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.AssemblyInfo.cs
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.CoreCompileInputs.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.csproj.CopyComplete
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\refint\HotelReservations.dll
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.pdb
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\HotelReservations.genruntimeconfig.cache
+C:\Users\Veljko\Desktop\Fax\3.SEMESTAR\Platforme za objektno programiranje\Projekat\Hotel\HotelReservations\obj\Debug\net7.0-windows\ref\HotelReservations.dll

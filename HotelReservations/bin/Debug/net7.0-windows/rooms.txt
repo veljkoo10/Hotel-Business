@@ -1,0 +1,4 @@
+1,02,True,True,1,True
+2,01,True,True,2,True
+4,15,False,False,2,True
+5,10,False,False,4,True

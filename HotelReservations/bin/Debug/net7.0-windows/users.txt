@@ -1,0 +1,3 @@
+1,Veljko,Randjelovic,2507003770014,velja,velja123,Administrator,True
+2,Nemanja,Savkovic,1302003770025,neca,neca123,Receptionist,True
+3,Svetozar,Piksi,0712003770036,sveta,sveta123,Receptionist,True

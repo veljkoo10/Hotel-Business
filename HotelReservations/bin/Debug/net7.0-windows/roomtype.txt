@@ -1,0 +1,4 @@
+1,single,True
+2,singlekrevet,True
+3,doublebad,True
+4,onenight,True

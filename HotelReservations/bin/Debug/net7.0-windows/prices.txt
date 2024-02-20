@@ -1,0 +1,8 @@
+1,1,Day,1000,True
+2,1,Night,2000,True
+3,2,Day,1000,True
+4,2,Night,2000,True
+5,3,Day,1000,True
+6,3,Night,2000,True
+7,4,Day,1000,True
+8,4,Night,2000,False
